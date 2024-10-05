@@ -1,0 +1,23 @@
+form{
+    width: 50%;
+    margin-left: 47%;
+    margin-top:5%;
+    border:2px solid black;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 10px;
+}
+form fieldset
+{
+    border: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.second-fieldset
+{
+    border-top: 1px solid rgb(226, 219, 219);
+}
+.second-fieldset img
+{
+    width:25px;
+}
