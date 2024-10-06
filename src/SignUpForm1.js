@@ -29,7 +29,7 @@ export default function SignUpForm1()
             <BrowserRouter>
             <Routes>
               <Route path="/" element={
-                <form onSubmit={formik.onSubmit}>
+                <form onSubmit={formik.onSubmit} id="form1">
                 <fieldset className="first-fieldset">
                     <h1>Sign Up</h1>
                     <p>Join us now! Sign up to kick-start your journey.</p>

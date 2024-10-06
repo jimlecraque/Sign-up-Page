@@ -1,0 +1,43 @@
+#form2{
+    width: 45%;
+    margin-top:5%;
+    border:2px solid black;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 10px;
+    position: relative;
+    top: -30em;
+    left: 10px;
+    text-align: center;
+}
+#form2 img
+{
+    width: 25px;
+}
+#form2 div
+{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 10%;
+}
+#form2 div button
+{
+    margin: 5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    font-size: large;
+}
+#form2 div button:first-child
+{
+    color: white;
+    background-color: black;
+}
+#form2 button span
+{
+    text-align:center;
+    margin-left: 15px;
+    margin-top: 0px;
+}

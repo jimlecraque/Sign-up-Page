@@ -1,4 +1,4 @@
-import './App.css';
+//import './App.css';
 import SignUpForm1 from './SignUpForm1';
 import SignUpForm2 from './SignUpForm2';
 
